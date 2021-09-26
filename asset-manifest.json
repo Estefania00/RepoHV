@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "//RepoHV/static/css/main.3ed16751.chunk.css",
-    "main.js": "//RepoHV/static/js/main.5fb40398.chunk.js",
-    "main.js.map": "//RepoHV/static/js/main.5fb40398.chunk.js.map",
-    "runtime-main.js": "//RepoHV/static/js/runtime-main.f91cc38a.js",
-    "runtime-main.js.map": "//RepoHV/static/js/runtime-main.f91cc38a.js.map",
-    "static/js/2.190f01e8.chunk.js": "//RepoHV/static/js/2.190f01e8.chunk.js",
-    "static/js/2.190f01e8.chunk.js.map": "//RepoHV/static/js/2.190f01e8.chunk.js.map",
-    "index.html": "//RepoHV/index.html",
-    "static/css/main.3ed16751.chunk.css.map": "//RepoHV/static/css/main.3ed16751.chunk.css.map",
-    "static/js/2.190f01e8.chunk.js.LICENSE.txt": "//RepoHV/static/js/2.190f01e8.chunk.js.LICENSE.txt",
-    "static/media/404err.9165f30e.png": "//RepoHV/static/media/404err.9165f30e.png",
-    "static/media/estudios.6b50e438.jpg": "//RepoHV/static/media/estudios.6b50e438.jpg",
-    "static/media/foto.ceeb12b1.jpeg": "//RepoHV/static/media/foto.ceeb12b1.jpeg",
-    "static/media/habilidades.a5074d47.jpg": "//RepoHV/static/media/habilidades.a5074d47.jpg",
-    "static/media/habilidades2.b4358c1f.jpg": "//RepoHV/static/media/habilidades2.b4358c1f.jpg",
-    "static/media/style.css": "//RepoHV/static/media/imgm4.d0aa2f0d.png",
-    "static/media/refFamiliar.df3b5380.bin": "//RepoHV/static/media/refFamiliar.df3b5380.bin",
-    "static/media/refPersonal.2d2f7e04.jpg": "//RepoHV/static/media/refPersonal.2d2f7e04.jpg"
+    "main.css": "/RepoHV/static/css/main.74148710.chunk.css",
+    "main.js": "/RepoHV/static/js/main.5fb40398.chunk.js",
+    "main.js.map": "/RepoHV/static/js/main.5fb40398.chunk.js.map",
+    "runtime-main.js": "/RepoHV/static/js/runtime-main.a4685a04.js",
+    "runtime-main.js.map": "/RepoHV/static/js/runtime-main.a4685a04.js.map",
+    "static/js/2.190f01e8.chunk.js": "/RepoHV/static/js/2.190f01e8.chunk.js",
+    "static/js/2.190f01e8.chunk.js.map": "/RepoHV/static/js/2.190f01e8.chunk.js.map",
+    "index.html": "/RepoHV/index.html",
+    "static/css/main.74148710.chunk.css.map": "/RepoHV/static/css/main.74148710.chunk.css.map",
+    "static/js/2.190f01e8.chunk.js.LICENSE.txt": "/RepoHV/static/js/2.190f01e8.chunk.js.LICENSE.txt",
+    "static/media/404err.9165f30e.png": "/RepoHV/static/media/404err.9165f30e.png",
+    "static/media/estudios.6b50e438.jpg": "/RepoHV/static/media/estudios.6b50e438.jpg",
+    "static/media/foto.ceeb12b1.jpeg": "/RepoHV/static/media/foto.ceeb12b1.jpeg",
+    "static/media/habilidades.a5074d47.jpg": "/RepoHV/static/media/habilidades.a5074d47.jpg",
+    "static/media/habilidades2.b4358c1f.jpg": "/RepoHV/static/media/habilidades2.b4358c1f.jpg",
+    "static/media/style.css": "/RepoHV/static/media/imgm4.d0aa2f0d.png",
+    "static/media/refFamiliar.df3b5380.bin": "/RepoHV/static/media/refFamiliar.df3b5380.bin",
+    "static/media/refPersonal.2d2f7e04.jpg": "/RepoHV/static/media/refPersonal.2d2f7e04.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f91cc38a.js",
+    "static/js/runtime-main.a4685a04.js",
     "static/js/2.190f01e8.chunk.js",
-    "static/css/main.3ed16751.chunk.css",
+    "static/css/main.74148710.chunk.css",
     "static/js/main.5fb40398.chunk.js"
   ]
 }
